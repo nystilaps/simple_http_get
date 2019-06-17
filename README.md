@@ -19,7 +19,9 @@ Build
 
 To build run the following commands:
 
-`$ mkdir build
+```
+$ mkdir build
 $ cd build
 $ cmake ..
-$ make`
+$ make
+```
