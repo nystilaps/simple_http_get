@@ -23,5 +23,3 @@ To build run the following commands:
 $ cd build
 $ cmake ..
 $ make`
-
-
